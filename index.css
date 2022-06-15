@@ -88,6 +88,10 @@
     box-shadow: 0 0 10px black;
     font-family: 'Strait', sans-serif;
 }
+.nav_heading
+{
+    font-family: 'Rationale', sans-serif;
+}
 .footer
 {
     background-color: #BD9594;
@@ -117,7 +121,6 @@
         padding-left: 0px;
         padding-right: 0px;
         display: flex;
-        justify-content;
     }
     .content
     {
@@ -150,6 +153,7 @@
     }
     .img{
         margin:0px;
+        margin-bottom: 30px;
     }
     .nav
     {
