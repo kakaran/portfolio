@@ -30,7 +30,7 @@ body
 }
 .elements:hover
 {
-    text-decoration: underline;
+    /* text-decoration: underline; */
     color: black;
 }
 .main
@@ -100,7 +100,9 @@ body
     transition: 1s;
 }
 .cont:hover{
-    transform: scale(1.1);
+    /* transform: scale(1.1); */
+    cursor: pointer;
+    opacity:0.5;
 }
 .nav_heading
 {
@@ -123,7 +125,7 @@ body
     body
 {
     background: url(./image/background.jpg);
-    background-size: cover;
+    background-size:cover;
 }
 }
 @media (max-width:1008px){
