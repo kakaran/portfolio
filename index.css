@@ -30,7 +30,7 @@ body
 }
 .elements:hover
 {
-    /* text-decoration: underline; */
+    text-decoration: underline;
     color: black;
 }
 .main
@@ -78,7 +78,7 @@ body
 }
 .content
 {
-    width:auto;
+    width:700px;
     height: 610px;
 }
 .cont
