@@ -119,6 +119,13 @@ body
     padding-top: 10px;
     padding-bottom: 10px;
 }
+@media (max-width:1320px){
+    body
+{
+    background: url(./image/background.jpg);
+    background-size: cover;
+}
+}
 @media (max-width:1008px){
     .nav{
         margin: 0%;
